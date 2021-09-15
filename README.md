@@ -1,1 +1,1 @@
-# vlog_website_practice
+# blog_website_practice
